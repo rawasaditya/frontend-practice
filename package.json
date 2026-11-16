@@ -1,0 +1,23 @@
+{
+  "name": "frontend-practice",
+  "version": "1.0.0",
+  "description": "Daily frontend and TypeScript practice. One commit per session.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rawasaditya/frontend-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rawasaditya/frontend-practice/issues"
+  },
+  "homepage": "https://github.com/rawasaditya/frontend-practice#readme",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
